@@ -1,5 +1,4 @@
 import styled from 'styled-components/native';
-import {colors} from '.';
 
 export const Th = styled.Text`
   font-family: Roboto-Thin;
