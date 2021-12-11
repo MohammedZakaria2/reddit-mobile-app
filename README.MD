@@ -2,7 +2,7 @@
 
 this is an application for Reddit website,
 
-## in order to use the app following this steps:
+## in order to use the app follow this steps:
 
 1. install the source code
 2. in the terminal get inside the root file and run:
